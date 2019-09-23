@@ -2,5 +2,6 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="edge" firstStartUp="false" />
+    <entry projectName="recognize" firstStartUp="false" />
   </component>
 </application>
