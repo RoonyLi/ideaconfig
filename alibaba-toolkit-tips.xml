@@ -3,6 +3,7 @@
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="dama" firstStartUp="false" />
     <entry projectName="edge" firstStartUp="false" />
+    <entry projectName="jsaas.parent" firstStartUp="false" />
     <entry projectName="recognize" firstStartUp="false" />
   </component>
 </application>
