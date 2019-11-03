@@ -4,6 +4,7 @@
     <entry projectName="crm" firstStartUp="false" />
     <entry projectName="dama" firstStartUp="false" />
     <entry projectName="edge" firstStartUp="false" />
+    <entry projectName="flyway-oracle11g" firstStartUp="false" />
     <entry projectName="jsaas.parent" firstStartUp="false" />
     <entry projectName="recognize" firstStartUp="false" />
     <entry projectName="retl" firstStartUp="false" />
